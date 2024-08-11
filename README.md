@@ -11,7 +11,7 @@ Clone the Repository:
 
 
 ```
-git clone https://github.com/yourusername/vps-status-checker-bot.git
+git clone https://github.com/ashimahamed/vps-status-discord-bot-py.git
 cd vps-status-checker-bot
 ```
 
