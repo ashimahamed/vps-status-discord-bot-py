@@ -12,7 +12,7 @@ Clone the Repository:
 
 ```
 git clone https://github.com/ashimahamed/vps-status-discord-bot-py.git
-cd vps-status-checker-bot
+cd vps-status-discord-bot-py
 ```
 
 Install Dependencies:
